@@ -1,0 +1,93 @@
+{
+  "Z": {
+    "use": true,
+    "type": "onehot",
+    "size": 119
+  },
+  "group": {
+    "use": true,
+    "type": "onehot",
+    "size": 19
+  },
+  "period": {
+    "use": true,
+    "type": "onehot",
+    "size": 8
+  },
+  "block": {
+    "use": true,
+    "type": "onehot",
+    "categories": [
+      "s",
+      "p",
+      "d",
+      "f"
+    ]
+  },
+  "atomic_mass": {
+    "use": false,
+    "type": "gaussian",
+    "bins": 32,
+    "range": "auto"
+  },
+  "covalent_radius": {
+    "use": true,
+    "type": "gaussian",
+    "bins": 32,
+    "range": "auto"
+  },
+  "van_der_waals_radius": {
+    "use": false,
+    "type": "gaussian",
+    "bins": 32,
+    "range": "auto"
+  },
+  "pauling_electronegativity": {
+    "use": false,
+    "type": "gaussian",
+    "bins": 32,
+    "range": "auto"
+  },
+  "electron_affinity": {
+    "use": false,
+    "type": "gaussian",
+    "bins": 32,
+    "range": "auto"
+  },
+  "first_ionization_energy": {
+    "use": false,
+    "type": "gaussian",
+    "bins": 32,
+    "range": "auto"
+  },
+  "mendeleev_number": {
+    "use": false,
+    "type": "gaussian",
+    "bins": 32,
+    "range": "auto"
+  },
+  "valence_s": {
+    "use": true,
+    "type": "linear"
+  },
+  "valence_p": {
+    "use": true,
+    "type": "linear"
+  },
+  "valence_d": {
+    "use": true,
+    "type": "linear"
+  },
+  "valence_f": {
+    "use": true,
+    "type": "linear"
+  },
+  "is_metal": {
+    "use": true,
+    "type": "linear"
+  },
+  "_behavior": {
+    "missing_scalar_fill": 0.0,
+    "gaussian_gamma": null
+  }
+}
