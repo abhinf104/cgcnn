@@ -1,0 +1,2362 @@
+{
+  "H": {
+    "Z": 1,
+    "group": 1,
+    "period": null,
+    "atomic_mass": 1.00794,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.1,
+    "pauling_electronegativity": 2.2,
+    "electron_affinity": 0.75419519,
+    "first_ionization_energy": 13.598434599702,
+    "valence_electrons": {
+      "s": 1,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "s",
+    "mendeleev_number": 103.0
+  },
+  "He": {
+    "Z": 2,
+    "group": 18,
+    "period": null,
+    "atomic_mass": 4.002602,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.4,
+    "pauling_electronegativity": null,
+    "electron_affinity": -0.52,
+    "first_ionization_energy": 24.587389011,
+    "valence_electrons": {
+      "s": 2,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 1.0
+  },
+  "Li": {
+    "Z": 3,
+    "group": 1,
+    "period": null,
+    "atomic_mass": 6.941,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.82,
+    "pauling_electronegativity": 0.98,
+    "electron_affinity": 0.61804922,
+    "first_ionization_energy": 5.391714996,
+    "valence_electrons": {
+      "s": 3,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "s",
+    "mendeleev_number": 12.0
+  },
+  "Be": {
+    "Z": 4,
+    "group": 2,
+    "period": null,
+    "atomic_mass": 9.012182,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.53,
+    "pauling_electronegativity": 1.57,
+    "electron_affinity": -0.52,
+    "first_ionization_energy": 9.322699,
+    "valence_electrons": {
+      "s": 4,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "s",
+    "mendeleev_number": 77.0
+  },
+  "B": {
+    "Z": 5,
+    "group": 13,
+    "period": null,
+    "atomic_mass": 10.811,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.92,
+    "pauling_electronegativity": 2.04,
+    "electron_affinity": 0.27972325,
+    "first_ionization_energy": 8.298019,
+    "valence_electrons": {
+      "s": 4,
+      "p": 1,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 86.0
+  },
+  "C": {
+    "Z": 6,
+    "group": 14,
+    "period": null,
+    "atomic_mass": 12.0107,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.7,
+    "pauling_electronegativity": 2.55,
+    "electron_affinity": 1.262122611,
+    "first_ionization_energy": 11.260288,
+    "valence_electrons": {
+      "s": 4,
+      "p": 2,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 95.0
+  },
+  "N": {
+    "Z": 7,
+    "group": 15,
+    "period": null,
+    "atomic_mass": 14.0067,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.55,
+    "pauling_electronegativity": 3.04,
+    "electron_affinity": -0.07,
+    "first_ionization_energy": 14.53413,
+    "valence_electrons": {
+      "s": 4,
+      "p": 3,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 100.0
+  },
+  "O": {
+    "Z": 8,
+    "group": 16,
+    "period": null,
+    "atomic_mass": 15.9994,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.52,
+    "pauling_electronegativity": 3.44,
+    "electron_affinity": 1.461112979,
+    "first_ionization_energy": 13.618055,
+    "valence_electrons": {
+      "s": 4,
+      "p": 4,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 101.0
+  },
+  "F": {
+    "Z": 9,
+    "group": 17,
+    "period": null,
+    "atomic_mass": 18.9984032,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.47,
+    "pauling_electronegativity": 3.98,
+    "electron_affinity": 3.401189824,
+    "first_ionization_energy": 17.42282,
+    "valence_electrons": {
+      "s": 4,
+      "p": 5,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 102.0
+  },
+  "Ne": {
+    "Z": 10,
+    "group": 18,
+    "period": null,
+    "atomic_mass": 20.1797,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.54,
+    "pauling_electronegativity": null,
+    "electron_affinity": -1.22,
+    "first_ionization_energy": 21.564541,
+    "valence_electrons": {
+      "s": 4,
+      "p": 6,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 2.0
+  },
+  "Na": {
+    "Z": 11,
+    "group": 1,
+    "period": null,
+    "atomic_mass": 22.98976928,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.27,
+    "pauling_electronegativity": 0.93,
+    "electron_affinity": 0.54792625,
+    "first_ionization_energy": 5.13907696,
+    "valence_electrons": {
+      "s": 5,
+      "p": 6,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "s",
+    "mendeleev_number": 11.0
+  },
+  "Mg": {
+    "Z": 12,
+    "group": 2,
+    "period": null,
+    "atomic_mass": 24.305,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.73,
+    "pauling_electronegativity": 1.31,
+    "electron_affinity": -0.42,
+    "first_ionization_energy": 7.646236,
+    "valence_electrons": {
+      "s": 6,
+      "p": 6,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "s",
+    "mendeleev_number": 73.0
+  },
+  "Al": {
+    "Z": 13,
+    "group": 13,
+    "period": null,
+    "atomic_mass": 26.9815386,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.84,
+    "pauling_electronegativity": 1.61,
+    "electron_affinity": 0.432835,
+    "first_ionization_energy": 5.985769,
+    "valence_electrons": {
+      "s": 6,
+      "p": 7,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "p",
+    "mendeleev_number": 80.0
+  },
+  "Si": {
+    "Z": 14,
+    "group": 14,
+    "period": null,
+    "atomic_mass": 28.0855,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.1,
+    "pauling_electronegativity": 1.9,
+    "electron_affinity": 1.38952128,
+    "first_ionization_energy": 8.15168,
+    "valence_electrons": {
+      "s": 6,
+      "p": 8,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 85.0
+  },
+  "P": {
+    "Z": 15,
+    "group": 15,
+    "period": null,
+    "atomic_mass": 30.973762,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.8,
+    "pauling_electronegativity": 2.19,
+    "electron_affinity": 0.74660911,
+    "first_ionization_energy": 10.486686,
+    "valence_electrons": {
+      "s": 6,
+      "p": 9,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 90.0
+  },
+  "S": {
+    "Z": 16,
+    "group": 16,
+    "period": null,
+    "atomic_mass": 32.065,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.8,
+    "pauling_electronegativity": 2.58,
+    "electron_affinity": 2.07710426,
+    "first_ionization_energy": 10.36001,
+    "valence_electrons": {
+      "s": 6,
+      "p": 10,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 94.0
+  },
+  "Cl": {
+    "Z": 17,
+    "group": 17,
+    "period": null,
+    "atomic_mass": 35.453,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.75,
+    "pauling_electronegativity": 3.16,
+    "electron_affinity": 3.61272528,
+    "first_ionization_energy": 12.967633,
+    "valence_electrons": {
+      "s": 6,
+      "p": 11,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 99.0
+  },
+  "Ar": {
+    "Z": 18,
+    "group": 18,
+    "period": null,
+    "atomic_mass": 39.948,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.88,
+    "pauling_electronegativity": null,
+    "electron_affinity": -1.02,
+    "first_ionization_energy": 15.7596119,
+    "valence_electrons": {
+      "s": 6,
+      "p": 12,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 3.0
+  },
+  "K": {
+    "Z": 19,
+    "group": 1,
+    "period": null,
+    "atomic_mass": 39.0983,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.75,
+    "pauling_electronegativity": 0.82,
+    "electron_affinity": 0.50145913,
+    "first_ionization_energy": 4.34066373,
+    "valence_electrons": {
+      "s": 7,
+      "p": 12,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "s",
+    "mendeleev_number": 10.0
+  },
+  "Ca": {
+    "Z": 20,
+    "group": 2,
+    "period": null,
+    "atomic_mass": 40.078,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.31,
+    "pauling_electronegativity": 1,
+    "electron_affinity": 0.024551,
+    "first_ionization_energy": 6.11315547,
+    "valence_electrons": {
+      "s": 8,
+      "p": 12,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "s",
+    "mendeleev_number": 16.0
+  },
+  "Sc": {
+    "Z": 21,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 44.955912,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.15,
+    "pauling_electronegativity": 1.36,
+    "electron_affinity": 0.17938023,
+    "first_ionization_energy": 6.56149,
+    "valence_electrons": {
+      "s": 8,
+      "p": 12,
+      "d": 1,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 19.0
+  },
+  "Ti": {
+    "Z": 22,
+    "group": 4,
+    "period": null,
+    "atomic_mass": 47.867,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.11,
+    "pauling_electronegativity": 1.54,
+    "electron_affinity": 0.075545,
+    "first_ionization_energy": 6.82812,
+    "valence_electrons": {
+      "s": 8,
+      "p": 12,
+      "d": 2,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 51.0
+  },
+  "V": {
+    "Z": 23,
+    "group": 5,
+    "period": null,
+    "atomic_mass": 50.9415,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.07,
+    "pauling_electronegativity": 1.63,
+    "electron_affinity": 0.527662,
+    "first_ionization_energy": 6.746187,
+    "valence_electrons": {
+      "s": 8,
+      "p": 12,
+      "d": 3,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 54.0
+  },
+  "Cr": {
+    "Z": 24,
+    "group": 6,
+    "period": null,
+    "atomic_mass": 51.9961,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.06,
+    "pauling_electronegativity": 1.66,
+    "electron_affinity": 0.67592827,
+    "first_ionization_energy": 6.76651,
+    "valence_electrons": {
+      "s": 7,
+      "p": 12,
+      "d": 5,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 57.0
+  },
+  "Mn": {
+    "Z": 25,
+    "group": 7,
+    "period": null,
+    "atomic_mass": 54.938045,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.05,
+    "pauling_electronegativity": 1.55,
+    "electron_affinity": -0.52,
+    "first_ionization_energy": 7.434038,
+    "valence_electrons": {
+      "s": 8,
+      "p": 12,
+      "d": 5,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 60.0
+  },
+  "Fe": {
+    "Z": 26,
+    "group": 8,
+    "period": null,
+    "atomic_mass": 55.845,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.04,
+    "pauling_electronegativity": 1.83,
+    "electron_affinity": 0.15323635,
+    "first_ionization_energy": 7.9024681,
+    "valence_electrons": {
+      "s": 8,
+      "p": 12,
+      "d": 6,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 61.0
+  },
+  "Co": {
+    "Z": 27,
+    "group": 9,
+    "period": null,
+    "atomic_mass": 58.933195,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.0,
+    "pauling_electronegativity": 1.88,
+    "electron_affinity": 0.66225547,
+    "first_ionization_energy": 7.88101,
+    "valence_electrons": {
+      "s": 8,
+      "p": 12,
+      "d": 7,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 64.0
+  },
+  "Ni": {
+    "Z": 28,
+    "group": 10,
+    "period": null,
+    "atomic_mass": 58.6934,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.97,
+    "pauling_electronegativity": 1.91,
+    "electron_affinity": 1.1571612,
+    "first_ionization_energy": 7.639878,
+    "valence_electrons": {
+      "s": 8,
+      "p": 12,
+      "d": 8,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 67.0
+  },
+  "Cu": {
+    "Z": 29,
+    "group": 11,
+    "period": null,
+    "atomic_mass": 63.546,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.96,
+    "pauling_electronegativity": 1.9,
+    "electron_affinity": 1.235784,
+    "first_ionization_energy": 7.72638,
+    "valence_electrons": {
+      "s": 7,
+      "p": 12,
+      "d": 10,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 72.0
+  },
+  "Zn": {
+    "Z": 30,
+    "group": 12,
+    "period": null,
+    "atomic_mass": 65.409,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.01,
+    "pauling_electronegativity": 1.65,
+    "electron_affinity": -0.62,
+    "first_ionization_energy": 9.394197,
+    "valence_electrons": {
+      "s": 8,
+      "p": 12,
+      "d": 10,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 76.0
+  },
+  "Ga": {
+    "Z": 31,
+    "group": 13,
+    "period": null,
+    "atomic_mass": 69.723,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.87,
+    "pauling_electronegativity": 1.81,
+    "electron_affinity": 0.30116615,
+    "first_ionization_energy": 5.999302,
+    "valence_electrons": {
+      "s": 8,
+      "p": 13,
+      "d": 10,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "p",
+    "mendeleev_number": 81.0
+  },
+  "Ge": {
+    "Z": 32,
+    "group": 14,
+    "period": null,
+    "atomic_mass": 72.64,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.11,
+    "pauling_electronegativity": 2.01,
+    "electron_affinity": 1.232676413,
+    "first_ionization_energy": 7.899435,
+    "valence_electrons": {
+      "s": 8,
+      "p": 14,
+      "d": 10,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 84.0
+  },
+  "As": {
+    "Z": 33,
+    "group": 15,
+    "period": null,
+    "atomic_mass": 74.9216,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.85,
+    "pauling_electronegativity": 2.18,
+    "electron_affinity": 0.8044863,
+    "first_ionization_energy": 9.78855,
+    "valence_electrons": {
+      "s": 8,
+      "p": 15,
+      "d": 10,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 89.0
+  },
+  "Se": {
+    "Z": 34,
+    "group": 16,
+    "period": null,
+    "atomic_mass": 78.96,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.9,
+    "pauling_electronegativity": 2.55,
+    "electron_affinity": 2.020604712,
+    "first_ionization_energy": 9.752392,
+    "valence_electrons": {
+      "s": 8,
+      "p": 16,
+      "d": 10,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 93.0
+  },
+  "Br": {
+    "Z": 35,
+    "group": 17,
+    "period": null,
+    "atomic_mass": 79.904,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.85,
+    "pauling_electronegativity": 2.96,
+    "electron_affinity": 3.3635883,
+    "first_ionization_energy": 11.81381,
+    "valence_electrons": {
+      "s": 8,
+      "p": 17,
+      "d": 10,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 98.0
+  },
+  "Kr": {
+    "Z": 36,
+    "group": 18,
+    "period": null,
+    "atomic_mass": 83.798,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.02,
+    "pauling_electronegativity": 3,
+    "electron_affinity": -1.02,
+    "first_ionization_energy": 13.9996055,
+    "valence_electrons": {
+      "s": 8,
+      "p": 18,
+      "d": 10,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 4.0
+  },
+  "Rb": {
+    "Z": 37,
+    "group": 1,
+    "period": null,
+    "atomic_mass": 85.4678,
+    "covalent_radius": null,
+    "van_der_waals_radius": 3.03,
+    "pauling_electronegativity": 0.82,
+    "electron_affinity": 0.48591621,
+    "first_ionization_energy": 4.1771281,
+    "valence_electrons": {
+      "s": 9,
+      "p": 18,
+      "d": 10,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "s",
+    "mendeleev_number": 9.0
+  },
+  "Sr": {
+    "Z": 38,
+    "group": 2,
+    "period": null,
+    "atomic_mass": 87.62,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.49,
+    "pauling_electronegativity": 0.95,
+    "electron_affinity": 0.052066,
+    "first_ionization_energy": 5.69486745,
+    "valence_electrons": {
+      "s": 10,
+      "p": 18,
+      "d": 10,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "s",
+    "mendeleev_number": 15.0
+  },
+  "Y": {
+    "Z": 39,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 88.90585,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.32,
+    "pauling_electronegativity": 1.22,
+    "electron_affinity": 0.3112922,
+    "first_ionization_energy": 6.21726,
+    "valence_electrons": {
+      "s": 10,
+      "p": 18,
+      "d": 11,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 25.0
+  },
+  "Zr": {
+    "Z": 40,
+    "group": 4,
+    "period": null,
+    "atomic_mass": 91.224,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.23,
+    "pauling_electronegativity": 1.33,
+    "electron_affinity": 0.433289,
+    "first_ionization_energy": 6.634126,
+    "valence_electrons": {
+      "s": 10,
+      "p": 18,
+      "d": 12,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 49.0
+  },
+  "Nb": {
+    "Z": 41,
+    "group": 5,
+    "period": null,
+    "atomic_mass": 92.90638,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.18,
+    "pauling_electronegativity": 1.6,
+    "electron_affinity": 0.917407,
+    "first_ionization_energy": 6.75885,
+    "valence_electrons": {
+      "s": 9,
+      "p": 18,
+      "d": 14,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 53.0
+  },
+  "Mo": {
+    "Z": 42,
+    "group": 6,
+    "period": null,
+    "atomic_mass": 95.94,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.17,
+    "pauling_electronegativity": 2.16,
+    "electron_affinity": 0.747238,
+    "first_ionization_energy": 7.09243,
+    "valence_electrons": {
+      "s": 9,
+      "p": 18,
+      "d": 15,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 56.0
+  },
+  "Tc": {
+    "Z": 43,
+    "group": 7,
+    "period": null,
+    "atomic_mass": 98.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.16,
+    "pauling_electronegativity": 1.9,
+    "electron_affinity": 0.552,
+    "first_ionization_energy": 7.11938,
+    "valence_electrons": {
+      "s": 10,
+      "p": 18,
+      "d": 15,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 59.0
+  },
+  "Ru": {
+    "Z": 44,
+    "group": 8,
+    "period": null,
+    "atomic_mass": 101.07,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.13,
+    "pauling_electronegativity": 2.2,
+    "electron_affinity": 1.046272,
+    "first_ionization_energy": 7.3605,
+    "valence_electrons": {
+      "s": 9,
+      "p": 18,
+      "d": 17,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 62.0
+  },
+  "Rh": {
+    "Z": 45,
+    "group": 9,
+    "period": null,
+    "atomic_mass": 102.9055,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.1,
+    "pauling_electronegativity": 2.28,
+    "electron_affinity": 1.142892,
+    "first_ionization_energy": 7.4589,
+    "valence_electrons": {
+      "s": 9,
+      "p": 18,
+      "d": 18,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 65.0
+  },
+  "Pd": {
+    "Z": 46,
+    "group": 10,
+    "period": null,
+    "atomic_mass": 106.42,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.1,
+    "pauling_electronegativity": 2.2,
+    "electron_affinity": 0.5621412,
+    "first_ionization_energy": 8.336839,
+    "valence_electrons": {
+      "s": 8,
+      "p": 18,
+      "d": 20,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 69.0
+  },
+  "Ag": {
+    "Z": 47,
+    "group": 11,
+    "period": null,
+    "atomic_mass": 107.8682,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.11,
+    "pauling_electronegativity": 1.93,
+    "electron_affinity": 1.304473,
+    "first_ionization_energy": 7.576234,
+    "valence_electrons": {
+      "s": 9,
+      "p": 18,
+      "d": 20,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 71.0
+  },
+  "Cd": {
+    "Z": 48,
+    "group": 12,
+    "period": null,
+    "atomic_mass": 112.411,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.18,
+    "pauling_electronegativity": 1.69,
+    "electron_affinity": -0.72,
+    "first_ionization_energy": 8.99382,
+    "valence_electrons": {
+      "s": 10,
+      "p": 18,
+      "d": 20,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 75.0
+  },
+  "In": {
+    "Z": 49,
+    "group": 13,
+    "period": null,
+    "atomic_mass": 114.818,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.93,
+    "pauling_electronegativity": 1.78,
+    "electron_affinity": 0.299,
+    "first_ionization_energy": 5.7863557,
+    "valence_electrons": {
+      "s": 10,
+      "p": 19,
+      "d": 20,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "p",
+    "mendeleev_number": 79.0
+  },
+  "Sn": {
+    "Z": 50,
+    "group": 14,
+    "period": null,
+    "atomic_mass": 118.71,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.17,
+    "pauling_electronegativity": 1.96,
+    "electron_affinity": 1.1120702,
+    "first_ionization_energy": 7.343918,
+    "valence_electrons": {
+      "s": 10,
+      "p": 20,
+      "d": 20,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "p",
+    "mendeleev_number": 83.0
+  },
+  "Sb": {
+    "Z": 51,
+    "group": 15,
+    "period": null,
+    "atomic_mass": 121.76,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.06,
+    "pauling_electronegativity": 2.05,
+    "electron_affinity": 1.04740119,
+    "first_ionization_energy": 8.608389,
+    "valence_electrons": {
+      "s": 10,
+      "p": 21,
+      "d": 20,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 88.0
+  },
+  "Te": {
+    "Z": 52,
+    "group": 16,
+    "period": null,
+    "atomic_mass": 127.6,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.06,
+    "pauling_electronegativity": 2.1,
+    "electron_affinity": 1.9708757,
+    "first_ionization_energy": 9.009808,
+    "valence_electrons": {
+      "s": 10,
+      "p": 22,
+      "d": 20,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 92.0
+  },
+  "I": {
+    "Z": 53,
+    "group": 17,
+    "period": null,
+    "atomic_mass": 126.90447,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.98,
+    "pauling_electronegativity": 2.66,
+    "electron_affinity": 3.059046537,
+    "first_ionization_energy": 10.45126,
+    "valence_electrons": {
+      "s": 10,
+      "p": 23,
+      "d": 20,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 97.0
+  },
+  "Xe": {
+    "Z": 54,
+    "group": 18,
+    "period": null,
+    "atomic_mass": 131.293,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.16,
+    "pauling_electronegativity": 2.6,
+    "electron_affinity": -0.82,
+    "first_ionization_energy": 12.1298437,
+    "valence_electrons": {
+      "s": 10,
+      "p": 24,
+      "d": 20,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 5.0
+  },
+  "Cs": {
+    "Z": 55,
+    "group": 1,
+    "period": null,
+    "atomic_mass": 132.9054519,
+    "covalent_radius": null,
+    "van_der_waals_radius": 3.43,
+    "pauling_electronegativity": 0.79,
+    "electron_affinity": 0.471598338,
+    "first_ionization_energy": 3.89390572743,
+    "valence_electrons": {
+      "s": 11,
+      "p": 24,
+      "d": 20,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "s",
+    "mendeleev_number": 8.0
+  },
+  "Ba": {
+    "Z": 56,
+    "group": 2,
+    "period": null,
+    "atomic_mass": 137.327,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.68,
+    "pauling_electronegativity": 0.89,
+    "electron_affinity": 0.144626,
+    "first_ionization_energy": 5.2116646,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 20,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "s",
+    "mendeleev_number": 14.0
+  },
+  "La": {
+    "Z": 57,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 138.90547,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.43,
+    "pauling_electronegativity": 1.1,
+    "electron_affinity": 0.5575462,
+    "first_ionization_energy": 5.5769,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 21,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 33.0
+  },
+  "Ce": {
+    "Z": 58,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 140.116,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.42,
+    "pauling_electronegativity": 1.12,
+    "electron_affinity": 0.60016027,
+    "first_ionization_energy": 5.5386,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 21,
+      "f": 1
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 32.0
+  },
+  "Pr": {
+    "Z": 59,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 140.90765,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.4,
+    "pauling_electronegativity": 1.13,
+    "electron_affinity": 0.1092346,
+    "first_ionization_energy": 5.4702,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 20,
+      "f": 3
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 31.0
+  },
+  "Nd": {
+    "Z": 60,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 144.242,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.39,
+    "pauling_electronegativity": 1.14,
+    "electron_affinity": 0.0974933,
+    "first_ionization_energy": 5.525,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 20,
+      "f": 4
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 30.0
+  },
+  "Pm": {
+    "Z": 61,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 145.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.38,
+    "pauling_electronegativity": 1.13,
+    "electron_affinity": 0.129,
+    "first_ionization_energy": 5.58187,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 20,
+      "f": 5
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 29.0
+  },
+  "Sm": {
+    "Z": 62,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 150.36,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.36,
+    "pauling_electronegativity": 1.17,
+    "electron_affinity": 0.162,
+    "first_ionization_energy": 5.64371,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 20,
+      "f": 6
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 28.0
+  },
+  "Eu": {
+    "Z": 63,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 151.964,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.35,
+    "pauling_electronegativity": 1.2,
+    "electron_affinity": 0.11613,
+    "first_ionization_energy": 5.670385,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 20,
+      "f": 7
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 18.0
+  },
+  "Gd": {
+    "Z": 64,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 157.25,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.34,
+    "pauling_electronegativity": 1.2,
+    "electron_affinity": 0.2123,
+    "first_ionization_energy": 6.1498,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 21,
+      "f": 7
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 27.0
+  },
+  "Tb": {
+    "Z": 65,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 158.92535,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.33,
+    "pauling_electronegativity": 1.1,
+    "electron_affinity": 0.131318,
+    "first_ionization_energy": 5.8638,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 20,
+      "f": 9
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 26.0
+  },
+  "Dy": {
+    "Z": 66,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 162.5,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.31,
+    "pauling_electronegativity": 1.22,
+    "electron_affinity": 0.0153,
+    "first_ionization_energy": 5.93905,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 20,
+      "f": 10
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 24.0
+  },
+  "Ho": {
+    "Z": 67,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 164.93032,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.3,
+    "pauling_electronegativity": 1.23,
+    "electron_affinity": 0.338,
+    "first_ionization_energy": 6.0215,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 20,
+      "f": 11
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 23.0
+  },
+  "Er": {
+    "Z": 68,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 167.259,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.29,
+    "pauling_electronegativity": 1.24,
+    "electron_affinity": 0.312,
+    "first_ionization_energy": 6.1077,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 20,
+      "f": 12
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 22.0
+  },
+  "Tm": {
+    "Z": 69,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 168.93421,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.27,
+    "pauling_electronegativity": 1.25,
+    "electron_affinity": 1.02922,
+    "first_ionization_energy": 6.18431,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 20,
+      "f": 13
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 21.0
+  },
+  "Yb": {
+    "Z": 70,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 173.04,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.26,
+    "pauling_electronegativity": 1.1,
+    "electron_affinity": -0.02,
+    "first_ionization_energy": 6.25416,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 20,
+      "f": 14
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 17.0
+  },
+  "Lu": {
+    "Z": 71,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 174.967,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.24,
+    "pauling_electronegativity": 1.27,
+    "electron_affinity": 0.23887,
+    "first_ionization_energy": 5.425871,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 21,
+      "f": 14
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 20.0
+  },
+  "Hf": {
+    "Z": 72,
+    "group": 4,
+    "period": null,
+    "atomic_mass": 178.49,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.23,
+    "pauling_electronegativity": 1.3,
+    "electron_affinity": 0.17807,
+    "first_ionization_energy": 6.82507,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 22,
+      "f": 14
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 50.0
+  },
+  "Ta": {
+    "Z": 73,
+    "group": 5,
+    "period": null,
+    "atomic_mass": 180.94788,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.22,
+    "pauling_electronegativity": 1.5,
+    "electron_affinity": 0.32885923,
+    "first_ionization_energy": 7.549571,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 23,
+      "f": 14
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 52.0
+  },
+  "W": {
+    "Z": 74,
+    "group": 6,
+    "period": null,
+    "atomic_mass": 183.84,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.18,
+    "pauling_electronegativity": 2.36,
+    "electron_affinity": 0.81650082,
+    "first_ionization_energy": 7.86403,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 24,
+      "f": 14
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 55.0
+  },
+  "Re": {
+    "Z": 75,
+    "group": 7,
+    "period": null,
+    "atomic_mass": 186.207,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.16,
+    "pauling_electronegativity": 1.9,
+    "electron_affinity": 0.06039664,
+    "first_ionization_energy": 7.83352,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 25,
+      "f": 14
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 58.0
+  },
+  "Os": {
+    "Z": 76,
+    "group": 8,
+    "period": null,
+    "atomic_mass": 190.23,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.16,
+    "pauling_electronegativity": 2.2,
+    "electron_affinity": 1.07766124,
+    "first_ionization_energy": 8.43823,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 26,
+      "f": 14
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 63.0
+  },
+  "Ir": {
+    "Z": 77,
+    "group": 9,
+    "period": null,
+    "atomic_mass": 192.217,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.13,
+    "pauling_electronegativity": 2.2,
+    "electron_affinity": 1.56405712,
+    "first_ionization_energy": 8.96702,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 27,
+      "f": 14
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 66.0
+  },
+  "Pt": {
+    "Z": 78,
+    "group": 10,
+    "period": null,
+    "atomic_mass": 195.084,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.13,
+    "pauling_electronegativity": 2.28,
+    "electron_affinity": 2.125105,
+    "first_ionization_energy": 8.95883,
+    "valence_electrons": {
+      "s": 11,
+      "p": 24,
+      "d": 29,
+      "f": 14
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 68.0
+  },
+  "Au": {
+    "Z": 79,
+    "group": 11,
+    "period": null,
+    "atomic_mass": 196.966569,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.14,
+    "pauling_electronegativity": 2.54,
+    "electron_affinity": 2.30861025,
+    "first_ionization_energy": 9.225554,
+    "valence_electrons": {
+      "s": 11,
+      "p": 24,
+      "d": 30,
+      "f": 14
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 70.0
+  },
+  "Hg": {
+    "Z": 80,
+    "group": 12,
+    "period": null,
+    "atomic_mass": 200.59,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.23,
+    "pauling_electronegativity": 2,
+    "electron_affinity": -0.52,
+    "first_ionization_energy": 10.437504,
+    "valence_electrons": {
+      "s": 12,
+      "p": 24,
+      "d": 30,
+      "f": 14
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 74.0
+  },
+  "Tl": {
+    "Z": 81,
+    "group": 13,
+    "period": null,
+    "atomic_mass": 204.3833,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.96,
+    "pauling_electronegativity": 1.62,
+    "electron_affinity": 0.32005319,
+    "first_ionization_energy": 6.1082873,
+    "valence_electrons": {
+      "s": 12,
+      "p": 25,
+      "d": 30,
+      "f": 14
+    },
+    "is_metal": 1,
+    "block": "p",
+    "mendeleev_number": 78.0
+  },
+  "Pb": {
+    "Z": 82,
+    "group": 14,
+    "period": null,
+    "atomic_mass": 207.2,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.02,
+    "pauling_electronegativity": 2.33,
+    "electron_affinity": 0.3567212,
+    "first_ionization_energy": 7.4166799,
+    "valence_electrons": {
+      "s": 12,
+      "p": 26,
+      "d": 30,
+      "f": 14
+    },
+    "is_metal": 1,
+    "block": "p",
+    "mendeleev_number": 82.0
+  },
+  "Bi": {
+    "Z": 83,
+    "group": 15,
+    "period": null,
+    "atomic_mass": 208.9804,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.07,
+    "pauling_electronegativity": 2.02,
+    "electron_affinity": 0.94236213,
+    "first_ionization_energy": 7.285516,
+    "valence_electrons": {
+      "s": 12,
+      "p": 27,
+      "d": 30,
+      "f": 14
+    },
+    "is_metal": 1,
+    "block": "p",
+    "mendeleev_number": 87.0
+  },
+  "Po": {
+    "Z": 84,
+    "group": 16,
+    "period": null,
+    "atomic_mass": 210.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": 1.97,
+    "pauling_electronegativity": 2,
+    "electron_affinity": 1.407,
+    "first_ionization_energy": 8.41807,
+    "valence_electrons": {
+      "s": 12,
+      "p": 28,
+      "d": 30,
+      "f": 14
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 91.0
+  },
+  "At": {
+    "Z": 85,
+    "group": 17,
+    "period": null,
+    "atomic_mass": 210.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.02,
+    "pauling_electronegativity": 2.2,
+    "electron_affinity": 2.415787,
+    "first_ionization_energy": 9.31751,
+    "valence_electrons": {
+      "s": 12,
+      "p": 29,
+      "d": 30,
+      "f": 14
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 96.0
+  },
+  "Rn": {
+    "Z": 86,
+    "group": 18,
+    "period": null,
+    "atomic_mass": 220.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.2,
+    "pauling_electronegativity": 2.2,
+    "electron_affinity": -0.72,
+    "first_ionization_energy": 10.7485,
+    "valence_electrons": {
+      "s": 12,
+      "p": 30,
+      "d": 30,
+      "f": 14
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": 6.0
+  },
+  "Fr": {
+    "Z": 87,
+    "group": 1,
+    "period": null,
+    "atomic_mass": 223.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": 3.48,
+    "pauling_electronegativity": 0.7,
+    "electron_affinity": 0.486,
+    "first_ionization_energy": 4.0727411,
+    "valence_electrons": {
+      "s": 13,
+      "p": 30,
+      "d": 30,
+      "f": 14
+    },
+    "is_metal": 1,
+    "block": "s",
+    "mendeleev_number": 7.0
+  },
+  "Ra": {
+    "Z": 88,
+    "group": 2,
+    "period": null,
+    "atomic_mass": 226.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.83,
+    "pauling_electronegativity": 0.9,
+    "electron_affinity": 0.1,
+    "first_ionization_energy": 5.2784239,
+    "valence_electrons": {
+      "s": 14,
+      "p": 30,
+      "d": 30,
+      "f": 14
+    },
+    "is_metal": 1,
+    "block": "s",
+    "mendeleev_number": 13.0
+  },
+  "Ac": {
+    "Z": 89,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 227.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.47,
+    "pauling_electronegativity": 1.1,
+    "electron_affinity": 0.35,
+    "first_ionization_energy": 5.380226,
+    "valence_electrons": {
+      "s": 14,
+      "p": 30,
+      "d": 31,
+      "f": 14
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 48.0
+  },
+  "Th": {
+    "Z": 90,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 232.03806,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.45,
+    "pauling_electronegativity": 1.3,
+    "electron_affinity": 0.607696,
+    "first_ionization_energy": 6.3067,
+    "valence_electrons": {
+      "s": 14,
+      "p": 30,
+      "d": 32,
+      "f": 14
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 47.0
+  },
+  "Pa": {
+    "Z": 91,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 231.03588,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.43,
+    "pauling_electronegativity": 1.5,
+    "electron_affinity": 0.55,
+    "first_ionization_energy": 5.89,
+    "valence_electrons": {
+      "s": 14,
+      "p": 30,
+      "d": 31,
+      "f": 16
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 46.0
+  },
+  "U": {
+    "Z": 92,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 238.02891,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.41,
+    "pauling_electronegativity": 1.38,
+    "electron_affinity": 0.314979,
+    "first_ionization_energy": 6.19405,
+    "valence_electrons": {
+      "s": 14,
+      "p": 30,
+      "d": 31,
+      "f": 17
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 45.0
+  },
+  "Np": {
+    "Z": 93,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 237.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.39,
+    "pauling_electronegativity": 1.36,
+    "electron_affinity": 0.48,
+    "first_ionization_energy": 6.26554,
+    "valence_electrons": {
+      "s": 14,
+      "p": 30,
+      "d": 31,
+      "f": 18
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 44.0
+  },
+  "Pu": {
+    "Z": 94,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 244.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.43,
+    "pauling_electronegativity": 1.28,
+    "electron_affinity": -0.5,
+    "first_ionization_energy": 6.02576,
+    "valence_electrons": {
+      "s": 14,
+      "p": 30,
+      "d": 30,
+      "f": 20
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 43.0
+  },
+  "Am": {
+    "Z": 95,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 243.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.44,
+    "pauling_electronegativity": 1.3,
+    "electron_affinity": 0.1,
+    "first_ionization_energy": 5.97381,
+    "valence_electrons": {
+      "s": 14,
+      "p": 30,
+      "d": 30,
+      "f": 21
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 42.0
+  },
+  "Cm": {
+    "Z": 96,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 247.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.45,
+    "pauling_electronegativity": 1.3,
+    "electron_affinity": 0.28,
+    "first_ionization_energy": 5.99141,
+    "valence_electrons": {
+      "s": 14,
+      "p": 30,
+      "d": 31,
+      "f": 21
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 41.0
+  },
+  "Bk": {
+    "Z": 97,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 247.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.44,
+    "pauling_electronegativity": 1.3,
+    "electron_affinity": -1.72,
+    "first_ionization_energy": 6.19785,
+    "valence_electrons": {
+      "s": 14,
+      "p": 30,
+      "d": 30,
+      "f": 23
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 40.0
+  },
+  "Cf": {
+    "Z": 98,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 251.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.45,
+    "pauling_electronegativity": 1.3,
+    "electron_affinity": -1.01,
+    "first_ionization_energy": 6.28166,
+    "valence_electrons": {
+      "s": 14,
+      "p": 30,
+      "d": 30,
+      "f": 24
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 39.0
+  },
+  "Es": {
+    "Z": 99,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 252.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.45,
+    "pauling_electronegativity": 1.3,
+    "electron_affinity": -0.3,
+    "first_ionization_energy": 6.36758,
+    "valence_electrons": {
+      "s": 14,
+      "p": 30,
+      "d": 30,
+      "f": 25
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 38.0
+  },
+  "Fm": {
+    "Z": 100,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 257.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.45,
+    "pauling_electronegativity": 1.3,
+    "electron_affinity": 0.35,
+    "first_ionization_energy": 6.5,
+    "valence_electrons": {
+      "s": 14,
+      "p": 30,
+      "d": 30,
+      "f": 26
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 37.0
+  },
+  "Md": {
+    "Z": 101,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 258.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.46,
+    "pauling_electronegativity": 1.3,
+    "electron_affinity": 0.98,
+    "first_ionization_energy": 6.58,
+    "valence_electrons": {
+      "s": 14,
+      "p": 30,
+      "d": 30,
+      "f": 27
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 36.0
+  },
+  "No": {
+    "Z": 102,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 259.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": 2.46,
+    "pauling_electronegativity": 1.3,
+    "electron_affinity": -2.33,
+    "first_ionization_energy": 6.62621,
+    "valence_electrons": {
+      "s": 14,
+      "p": 30,
+      "d": 30,
+      "f": 28
+    },
+    "is_metal": 1,
+    "block": "f",
+    "mendeleev_number": 35.0
+  },
+  "Lr": {
+    "Z": 103,
+    "group": 3,
+    "period": null,
+    "atomic_mass": 262.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": null,
+    "pauling_electronegativity": 1.3,
+    "electron_affinity": -0.31,
+    "first_ionization_energy": 4.96,
+    "valence_electrons": {
+      "s": 14,
+      "p": 31,
+      "d": 30,
+      "f": 28
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": 34.0
+  },
+  "Rf": {
+    "Z": 104,
+    "group": 4,
+    "period": null,
+    "atomic_mass": 267.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": null,
+    "pauling_electronegativity": null,
+    "electron_affinity": null,
+    "first_ionization_energy": 6.02,
+    "valence_electrons": {
+      "s": 0,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": null
+  },
+  "Db": {
+    "Z": 105,
+    "group": 5,
+    "period": null,
+    "atomic_mass": 268.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": null,
+    "pauling_electronegativity": null,
+    "electron_affinity": null,
+    "first_ionization_energy": 6.8,
+    "valence_electrons": {
+      "s": 0,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": null
+  },
+  "Sg": {
+    "Z": 106,
+    "group": 6,
+    "period": null,
+    "atomic_mass": 269.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": null,
+    "pauling_electronegativity": null,
+    "electron_affinity": null,
+    "first_ionization_energy": 7.8,
+    "valence_electrons": {
+      "s": 0,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": null
+  },
+  "Bh": {
+    "Z": 107,
+    "group": 7,
+    "period": null,
+    "atomic_mass": 270.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": null,
+    "pauling_electronegativity": null,
+    "electron_affinity": null,
+    "first_ionization_energy": 7.7,
+    "valence_electrons": {
+      "s": 0,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": null
+  },
+  "Hs": {
+    "Z": 108,
+    "group": 8,
+    "period": null,
+    "atomic_mass": 270.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": null,
+    "pauling_electronegativity": null,
+    "electron_affinity": null,
+    "first_ionization_energy": 7.6,
+    "valence_electrons": {
+      "s": 0,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": null
+  },
+  "Mt": {
+    "Z": 109,
+    "group": 9,
+    "period": null,
+    "atomic_mass": 278.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": null,
+    "pauling_electronegativity": null,
+    "electron_affinity": null,
+    "first_ionization_energy": 50.0,
+    "valence_electrons": {
+      "s": 0,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": null
+  },
+  "Ds": {
+    "Z": 110,
+    "group": 10,
+    "period": null,
+    "atomic_mass": 281.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": null,
+    "pauling_electronegativity": null,
+    "electron_affinity": null,
+    "first_ionization_energy": 65.0,
+    "valence_electrons": {
+      "s": 0,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": null
+  },
+  "Rg": {
+    "Z": 111,
+    "group": 11,
+    "period": null,
+    "atomic_mass": 282.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": null,
+    "pauling_electronegativity": null,
+    "electron_affinity": 1.565,
+    "first_ionization_energy": null,
+    "valence_electrons": {
+      "s": 0,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": null
+  },
+  "Cn": {
+    "Z": 112,
+    "group": 12,
+    "period": null,
+    "atomic_mass": 285.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": null,
+    "pauling_electronegativity": null,
+    "electron_affinity": null,
+    "first_ionization_energy": null,
+    "valence_electrons": {
+      "s": 0,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 1,
+    "block": "d",
+    "mendeleev_number": null
+  },
+  "Nh": {
+    "Z": 113,
+    "group": 13,
+    "period": null,
+    "atomic_mass": 286.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": null,
+    "pauling_electronegativity": null,
+    "electron_affinity": 0.69,
+    "first_ionization_energy": null,
+    "valence_electrons": {
+      "s": 0,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": null
+  },
+  "Fl": {
+    "Z": 114,
+    "group": 14,
+    "period": null,
+    "atomic_mass": 289.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": null,
+    "pauling_electronegativity": null,
+    "electron_affinity": null,
+    "first_ionization_energy": null,
+    "valence_electrons": {
+      "s": 0,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": null
+  },
+  "Mc": {
+    "Z": 115,
+    "group": 15,
+    "period": null,
+    "atomic_mass": 290.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": null,
+    "pauling_electronegativity": null,
+    "electron_affinity": 0.366,
+    "first_ionization_energy": null,
+    "valence_electrons": {
+      "s": 0,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": null
+  },
+  "Lv": {
+    "Z": 116,
+    "group": 16,
+    "period": null,
+    "atomic_mass": 293.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": null,
+    "pauling_electronegativity": null,
+    "electron_affinity": 0.776,
+    "first_ionization_energy": null,
+    "valence_electrons": {
+      "s": 0,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": null
+  },
+  "Ts": {
+    "Z": 117,
+    "group": 17,
+    "period": null,
+    "atomic_mass": 294.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": null,
+    "pauling_electronegativity": null,
+    "electron_affinity": 1.719,
+    "first_ionization_energy": null,
+    "valence_electrons": {
+      "s": 0,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": null
+  },
+  "Og": {
+    "Z": 118,
+    "group": 18,
+    "period": null,
+    "atomic_mass": 294.0,
+    "covalent_radius": null,
+    "van_der_waals_radius": null,
+    "pauling_electronegativity": null,
+    "electron_affinity": 0.0806,
+    "first_ionization_energy": null,
+    "valence_electrons": {
+      "s": 0,
+      "p": 0,
+      "d": 0,
+      "f": 0
+    },
+    "is_metal": 0,
+    "block": "p",
+    "mendeleev_number": null
+  }
+}
