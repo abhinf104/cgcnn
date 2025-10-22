@@ -1,0 +1,17 @@
+[project]
+name = "cgcnn"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "ase>=3.26.0",
+    "ipykernel>=7.0.1",
+    "jupyterlab>=4.4.9",
+    "matplotlib>=3.10.7",
+    "mp-api>=0.45.12",
+    "networkx>=3.4.2",
+    "notebook>=7.4.7",
+    "numpy>=2.2.6",
+    "pymatgen>=2025.10.7",
+    "python-dotenv>=1.1.1",
+    "torch>=2.9.0",
+]
