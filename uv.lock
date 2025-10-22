@@ -360,6 +360,7 @@ dependencies = [
     { name = "notebook" },
     { name = "numpy" },
     { name = "pymatgen" },
+    { name = "python-dotenv" },
     { name = "torch" },
 ]
 
@@ -374,6 +375,7 @@ requires-dist = [
     { name = "notebook", specifier = ">=7.4.7" },
     { name = "numpy", specifier = ">=2.2.6" },
     { name = "pymatgen", specifier = ">=2025.10.7" },
+    { name = "python-dotenv", specifier = ">=1.1.1" },
     { name = "torch", specifier = ">=2.9.0" },
 ]
 
