@@ -93,37 +93,7 @@ uv run --python 3.12 example.py
 deactivate
 ```
 
-## Your CGCNN Project Setup
-
-### Current Project Structure
-
-```
 c:\Users\abhin\Desktop\cgcnn\
-├── pyproject.toml          # Project configuration
-├── README.md               # Project documentation
-├── GNN.ipynb              # Main GNN notebook
-├── atom_init.json         # Atom initialization data
-├── create_structure.ps1    # PowerShell script for structure creation
-├── setup_environment.ps1   # PowerShell script for environment setup
-├── data/                   # Data directory
-│   ├── atom_init.json      # Atom initialization data (duplicate)
-│   └── mp-ids-27430.csv    # Materials Project IDs
-├── notebooks/              # Jupyter notebooks directory
-│   ├── 01_atom_embeddings.ipynb    # Atom embeddings notebook
-│   ├── 02_graph_building.ipynb     # Graph building notebook
-│   ├── 03_graph_visualization.ipynb # Graph visualization notebook
-│   ├── atom_embed_config.json      # Atom embedding configuration
-│   ├── atom_embedding.json         # Atom embedding data
-│   ├── elements.json               # Elements data
-│   ├── graph_dataset.pt            # PyTorch graph dataset
-│   ├── mp_training_data.json       # Materials Project training data
-│   └── mp-ids-27430.csv            # Materials Project IDs (duplicate)
-└── setup_and_uv/           # Setup and UV utilities
-    ├── example.py           # Example Python script
-    ├── quick_test.py        # Quick test script
-    ├── test_environment.py  # Environment testing script
-    └── UV_GUIDE.md          # This guide
-```
 
 ### Your Dependencies
 

@@ -50,7 +50,7 @@
     "electron_affinity": 0.61804922,
     "first_ionization_energy": 5.391714996,
     "valence_electrons": {
-      "s": 3,
+      "s": 1,
       "p": 0,
       "d": 0,
       "f": 0
@@ -70,7 +70,7 @@
     "electron_affinity": -0.52,
     "first_ionization_energy": 9.322699,
     "valence_electrons": {
-      "s": 4,
+      "s": 2,
       "p": 0,
       "d": 0,
       "f": 0
@@ -90,7 +90,7 @@
     "electron_affinity": 0.27972325,
     "first_ionization_energy": 8.298019,
     "valence_electrons": {
-      "s": 4,
+      "s": 2,
       "p": 1,
       "d": 0,
       "f": 0
@@ -110,7 +110,7 @@
     "electron_affinity": 1.262122611,
     "first_ionization_energy": 11.260288,
     "valence_electrons": {
-      "s": 4,
+      "s": 2,
       "p": 2,
       "d": 0,
       "f": 0
@@ -130,7 +130,7 @@
     "electron_affinity": -0.07,
     "first_ionization_energy": 14.53413,
     "valence_electrons": {
-      "s": 4,
+      "s": 2,
       "p": 3,
       "d": 0,
       "f": 0
@@ -150,7 +150,7 @@
     "electron_affinity": 1.461112979,
     "first_ionization_energy": 13.618055,
     "valence_electrons": {
-      "s": 4,
+      "s": 2,
       "p": 4,
       "d": 0,
       "f": 0
@@ -170,7 +170,7 @@
     "electron_affinity": 3.401189824,
     "first_ionization_energy": 17.42282,
     "valence_electrons": {
-      "s": 4,
+      "s": 2,
       "p": 5,
       "d": 0,
       "f": 0
@@ -190,7 +190,7 @@
     "electron_affinity": -1.22,
     "first_ionization_energy": 21.564541,
     "valence_electrons": {
-      "s": 4,
+      "s": 2,
       "p": 6,
       "d": 0,
       "f": 0
@@ -210,8 +210,8 @@
     "electron_affinity": 0.54792625,
     "first_ionization_energy": 5.13907696,
     "valence_electrons": {
-      "s": 5,
-      "p": 6,
+      "s": 1,
+      "p": 0,
       "d": 0,
       "f": 0
     },
@@ -230,8 +230,8 @@
     "electron_affinity": -0.42,
     "first_ionization_energy": 7.646236,
     "valence_electrons": {
-      "s": 6,
-      "p": 6,
+      "s": 2,
+      "p": 0,
       "d": 0,
       "f": 0
     },
@@ -250,8 +250,8 @@
     "electron_affinity": 0.432835,
     "first_ionization_energy": 5.985769,
     "valence_electrons": {
-      "s": 6,
-      "p": 7,
+      "s": 2,
+      "p": 1,
       "d": 0,
       "f": 0
     },
@@ -270,8 +270,8 @@
     "electron_affinity": 1.38952128,
     "first_ionization_energy": 8.15168,
     "valence_electrons": {
-      "s": 6,
-      "p": 8,
+      "s": 2,
+      "p": 2,
       "d": 0,
       "f": 0
     },
@@ -290,8 +290,8 @@
     "electron_affinity": 0.74660911,
     "first_ionization_energy": 10.486686,
     "valence_electrons": {
-      "s": 6,
-      "p": 9,
+      "s": 2,
+      "p": 3,
       "d": 0,
       "f": 0
     },
@@ -310,8 +310,8 @@
     "electron_affinity": 2.07710426,
     "first_ionization_energy": 10.36001,
     "valence_electrons": {
-      "s": 6,
-      "p": 10,
+      "s": 2,
+      "p": 4,
       "d": 0,
       "f": 0
     },
@@ -330,8 +330,8 @@
     "electron_affinity": 3.61272528,
     "first_ionization_energy": 12.967633,
     "valence_electrons": {
-      "s": 6,
-      "p": 11,
+      "s": 2,
+      "p": 5,
       "d": 0,
       "f": 0
     },
@@ -350,8 +350,8 @@
     "electron_affinity": -1.02,
     "first_ionization_energy": 15.7596119,
     "valence_electrons": {
-      "s": 6,
-      "p": 12,
+      "s": 2,
+      "p": 6,
       "d": 0,
       "f": 0
     },
@@ -370,8 +370,8 @@
     "electron_affinity": 0.50145913,
     "first_ionization_energy": 4.34066373,
     "valence_electrons": {
-      "s": 7,
-      "p": 12,
+      "s": 1,
+      "p": 0,
       "d": 0,
       "f": 0
     },
@@ -390,8 +390,8 @@
     "electron_affinity": 0.024551,
     "first_ionization_energy": 6.11315547,
     "valence_electrons": {
-      "s": 8,
-      "p": 12,
+      "s": 2,
+      "p": 0,
       "d": 0,
       "f": 0
     },
@@ -410,8 +410,8 @@
     "electron_affinity": 0.17938023,
     "first_ionization_energy": 6.56149,
     "valence_electrons": {
-      "s": 8,
-      "p": 12,
+      "s": 2,
+      "p": 6,
       "d": 1,
       "f": 0
     },
@@ -430,8 +430,8 @@
     "electron_affinity": 0.075545,
     "first_ionization_energy": 6.82812,
     "valence_electrons": {
-      "s": 8,
-      "p": 12,
+      "s": 2,
+      "p": 6,
       "d": 2,
       "f": 0
     },
@@ -450,8 +450,8 @@
     "electron_affinity": 0.527662,
     "first_ionization_energy": 6.746187,
     "valence_electrons": {
-      "s": 8,
-      "p": 12,
+      "s": 2,
+      "p": 6,
       "d": 3,
       "f": 0
     },
@@ -470,8 +470,8 @@
     "electron_affinity": 0.67592827,
     "first_ionization_energy": 6.76651,
     "valence_electrons": {
-      "s": 7,
-      "p": 12,
+      "s": 2,
+      "p": 6,
       "d": 5,
       "f": 0
     },
@@ -490,8 +490,8 @@
     "electron_affinity": -0.52,
     "first_ionization_energy": 7.434038,
     "valence_electrons": {
-      "s": 8,
-      "p": 12,
+      "s": 2,
+      "p": 6,
       "d": 5,
       "f": 0
     },
@@ -510,8 +510,8 @@
     "electron_affinity": 0.15323635,
     "first_ionization_energy": 7.9024681,
     "valence_electrons": {
-      "s": 8,
-      "p": 12,
+      "s": 2,
+      "p": 6,
       "d": 6,
       "f": 0
     },
@@ -530,8 +530,8 @@
     "electron_affinity": 0.66225547,
     "first_ionization_energy": 7.88101,
     "valence_electrons": {
-      "s": 8,
-      "p": 12,
+      "s": 2,
+      "p": 6,
       "d": 7,
       "f": 0
     },
@@ -550,8 +550,8 @@
     "electron_affinity": 1.1571612,
     "first_ionization_energy": 7.639878,
     "valence_electrons": {
-      "s": 8,
-      "p": 12,
+      "s": 2,
+      "p": 6,
       "d": 8,
       "f": 0
     },
@@ -570,8 +570,8 @@
     "electron_affinity": 1.235784,
     "first_ionization_energy": 7.72638,
     "valence_electrons": {
-      "s": 7,
-      "p": 12,
+      "s": 2,
+      "p": 6,
       "d": 10,
       "f": 0
     },
@@ -590,8 +590,8 @@
     "electron_affinity": -0.62,
     "first_ionization_energy": 9.394197,
     "valence_electrons": {
-      "s": 8,
-      "p": 12,
+      "s": 2,
+      "p": 6,
       "d": 10,
       "f": 0
     },
@@ -610,9 +610,9 @@
     "electron_affinity": 0.30116615,
     "first_ionization_energy": 5.999302,
     "valence_electrons": {
-      "s": 8,
-      "p": 13,
-      "d": 10,
+      "s": 2,
+      "p": 1,
+      "d": 0,
       "f": 0
     },
     "is_metal": 1,
@@ -630,9 +630,9 @@
     "electron_affinity": 1.232676413,
     "first_ionization_energy": 7.899435,
     "valence_electrons": {
-      "s": 8,
-      "p": 14,
-      "d": 10,
+      "s": 2,
+      "p": 2,
+      "d": 0,
       "f": 0
     },
     "is_metal": 0,
@@ -650,9 +650,9 @@
     "electron_affinity": 0.8044863,
     "first_ionization_energy": 9.78855,
     "valence_electrons": {
-      "s": 8,
-      "p": 15,
-      "d": 10,
+      "s": 2,
+      "p": 3,
+      "d": 0,
       "f": 0
     },
     "is_metal": 0,
@@ -670,9 +670,9 @@
     "electron_affinity": 2.020604712,
     "first_ionization_energy": 9.752392,
     "valence_electrons": {
-      "s": 8,
-      "p": 16,
-      "d": 10,
+      "s": 2,
+      "p": 4,
+      "d": 0,
       "f": 0
     },
     "is_metal": 0,
@@ -690,9 +690,9 @@
     "electron_affinity": 3.3635883,
     "first_ionization_energy": 11.81381,
     "valence_electrons": {
-      "s": 8,
-      "p": 17,
-      "d": 10,
+      "s": 2,
+      "p": 5,
+      "d": 0,
       "f": 0
     },
     "is_metal": 0,
@@ -710,9 +710,9 @@
     "electron_affinity": -1.02,
     "first_ionization_energy": 13.9996055,
     "valence_electrons": {
-      "s": 8,
-      "p": 18,
-      "d": 10,
+      "s": 2,
+      "p": 6,
+      "d": 0,
       "f": 0
     },
     "is_metal": 0,
@@ -730,9 +730,9 @@
     "electron_affinity": 0.48591621,
     "first_ionization_energy": 4.1771281,
     "valence_electrons": {
-      "s": 9,
-      "p": 18,
-      "d": 10,
+      "s": 1,
+      "p": 0,
+      "d": 0,
       "f": 0
     },
     "is_metal": 1,
@@ -750,9 +750,9 @@
     "electron_affinity": 0.052066,
     "first_ionization_energy": 5.69486745,
     "valence_electrons": {
-      "s": 10,
-      "p": 18,
-      "d": 10,
+      "s": 2,
+      "p": 0,
+      "d": 0,
       "f": 0
     },
     "is_metal": 1,
@@ -770,9 +770,9 @@
     "electron_affinity": 0.3112922,
     "first_ionization_energy": 6.21726,
     "valence_electrons": {
-      "s": 10,
-      "p": 18,
-      "d": 11,
+      "s": 2,
+      "p": 6,
+      "d": 1,
       "f": 0
     },
     "is_metal": 1,
@@ -790,9 +790,9 @@
     "electron_affinity": 0.433289,
     "first_ionization_energy": 6.634126,
     "valence_electrons": {
-      "s": 10,
-      "p": 18,
-      "d": 12,
+      "s": 2,
+      "p": 6,
+      "d": 2,
       "f": 0
     },
     "is_metal": 1,
@@ -810,9 +810,9 @@
     "electron_affinity": 0.917407,
     "first_ionization_energy": 6.75885,
     "valence_electrons": {
-      "s": 9,
-      "p": 18,
-      "d": 14,
+      "s": 2,
+      "p": 6,
+      "d": 4,
       "f": 0
     },
     "is_metal": 1,
@@ -830,9 +830,9 @@
     "electron_affinity": 0.747238,
     "first_ionization_energy": 7.09243,
     "valence_electrons": {
-      "s": 9,
-      "p": 18,
-      "d": 15,
+      "s": 2,
+      "p": 6,
+      "d": 5,
       "f": 0
     },
     "is_metal": 1,
@@ -850,9 +850,9 @@
     "electron_affinity": 0.552,
     "first_ionization_energy": 7.11938,
     "valence_electrons": {
-      "s": 10,
-      "p": 18,
-      "d": 15,
+      "s": 2,
+      "p": 6,
+      "d": 5,
       "f": 0
     },
     "is_metal": 1,
@@ -870,9 +870,9 @@
     "electron_affinity": 1.046272,
     "first_ionization_energy": 7.3605,
     "valence_electrons": {
-      "s": 9,
-      "p": 18,
-      "d": 17,
+      "s": 2,
+      "p": 6,
+      "d": 7,
       "f": 0
     },
     "is_metal": 1,
@@ -890,9 +890,9 @@
     "electron_affinity": 1.142892,
     "first_ionization_energy": 7.4589,
     "valence_electrons": {
-      "s": 9,
-      "p": 18,
-      "d": 18,
+      "s": 2,
+      "p": 6,
+      "d": 8,
       "f": 0
     },
     "is_metal": 1,
@@ -910,9 +910,9 @@
     "electron_affinity": 0.5621412,
     "first_ionization_energy": 8.336839,
     "valence_electrons": {
-      "s": 8,
-      "p": 18,
-      "d": 20,
+      "s": 2,
+      "p": 6,
+      "d": 10,
       "f": 0
     },
     "is_metal": 1,
@@ -930,9 +930,9 @@
     "electron_affinity": 1.304473,
     "first_ionization_energy": 7.576234,
     "valence_electrons": {
-      "s": 9,
-      "p": 18,
-      "d": 20,
+      "s": 2,
+      "p": 6,
+      "d": 10,
       "f": 0
     },
     "is_metal": 1,
@@ -950,9 +950,9 @@
     "electron_affinity": -0.72,
     "first_ionization_energy": 8.99382,
     "valence_electrons": {
-      "s": 10,
-      "p": 18,
-      "d": 20,
+      "s": 2,
+      "p": 6,
+      "d": 10,
       "f": 0
     },
     "is_metal": 1,
@@ -970,9 +970,9 @@
     "electron_affinity": 0.299,
     "first_ionization_energy": 5.7863557,
     "valence_electrons": {
-      "s": 10,
-      "p": 19,
-      "d": 20,
+      "s": 2,
+      "p": 1,
+      "d": 0,
       "f": 0
     },
     "is_metal": 1,
@@ -990,9 +990,9 @@
     "electron_affinity": 1.1120702,
     "first_ionization_energy": 7.343918,
     "valence_electrons": {
-      "s": 10,
-      "p": 20,
-      "d": 20,
+      "s": 2,
+      "p": 2,
+      "d": 0,
       "f": 0
     },
     "is_metal": 1,
@@ -1010,9 +1010,9 @@
     "electron_affinity": 1.04740119,
     "first_ionization_energy": 8.608389,
     "valence_electrons": {
-      "s": 10,
-      "p": 21,
-      "d": 20,
+      "s": 2,
+      "p": 3,
+      "d": 0,
       "f": 0
     },
     "is_metal": 0,
@@ -1030,9 +1030,9 @@
     "electron_affinity": 1.9708757,
     "first_ionization_energy": 9.009808,
     "valence_electrons": {
-      "s": 10,
-      "p": 22,
-      "d": 20,
+      "s": 2,
+      "p": 4,
+      "d": 0,
       "f": 0
     },
     "is_metal": 0,
@@ -1050,9 +1050,9 @@
     "electron_affinity": 3.059046537,
     "first_ionization_energy": 10.45126,
     "valence_electrons": {
-      "s": 10,
-      "p": 23,
-      "d": 20,
+      "s": 2,
+      "p": 5,
+      "d": 0,
       "f": 0
     },
     "is_metal": 0,
@@ -1070,9 +1070,9 @@
     "electron_affinity": -0.82,
     "first_ionization_energy": 12.1298437,
     "valence_electrons": {
-      "s": 10,
-      "p": 24,
-      "d": 20,
+      "s": 2,
+      "p": 6,
+      "d": 0,
       "f": 0
     },
     "is_metal": 0,
@@ -1090,9 +1090,9 @@
     "electron_affinity": 0.471598338,
     "first_ionization_energy": 3.89390572743,
     "valence_electrons": {
-      "s": 11,
-      "p": 24,
-      "d": 20,
+      "s": 1,
+      "p": 0,
+      "d": 0,
       "f": 0
     },
     "is_metal": 1,
@@ -1110,9 +1110,9 @@
     "electron_affinity": 0.144626,
     "first_ionization_energy": 5.2116646,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 20,
+      "s": 2,
+      "p": 0,
+      "d": 0,
       "f": 0
     },
     "is_metal": 1,
@@ -1130,9 +1130,9 @@
     "electron_affinity": 0.5575462,
     "first_ionization_energy": 5.5769,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 21,
+      "s": 2,
+      "p": 6,
+      "d": 1,
       "f": 0
     },
     "is_metal": 1,
@@ -1150,10 +1150,10 @@
     "electron_affinity": 0.60016027,
     "first_ionization_energy": 5.5386,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 21,
-      "f": 1
+      "s": 2,
+      "p": 6,
+      "d": 1,
+      "f": 0
     },
     "is_metal": 1,
     "block": "f",
@@ -1170,9 +1170,9 @@
     "electron_affinity": 0.1092346,
     "first_ionization_energy": 5.4702,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 20,
+      "s": 2,
+      "p": 6,
+      "d": 10,
       "f": 3
     },
     "is_metal": 1,
@@ -1190,9 +1190,9 @@
     "electron_affinity": 0.0974933,
     "first_ionization_energy": 5.525,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 20,
+      "s": 2,
+      "p": 6,
+      "d": 10,
       "f": 4
     },
     "is_metal": 1,
@@ -1210,9 +1210,9 @@
     "electron_affinity": 0.129,
     "first_ionization_energy": 5.58187,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 20,
+      "s": 2,
+      "p": 6,
+      "d": 10,
       "f": 5
     },
     "is_metal": 1,
@@ -1230,9 +1230,9 @@
     "electron_affinity": 0.162,
     "first_ionization_energy": 5.64371,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 20,
+      "s": 2,
+      "p": 6,
+      "d": 10,
       "f": 6
     },
     "is_metal": 1,
@@ -1250,9 +1250,9 @@
     "electron_affinity": 0.11613,
     "first_ionization_energy": 5.670385,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 20,
+      "s": 2,
+      "p": 6,
+      "d": 10,
       "f": 7
     },
     "is_metal": 1,
@@ -1270,10 +1270,10 @@
     "electron_affinity": 0.2123,
     "first_ionization_energy": 6.1498,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 21,
-      "f": 7
+      "s": 2,
+      "p": 6,
+      "d": 1,
+      "f": 0
     },
     "is_metal": 1,
     "block": "f",
@@ -1290,9 +1290,9 @@
     "electron_affinity": 0.131318,
     "first_ionization_energy": 5.8638,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 20,
+      "s": 2,
+      "p": 6,
+      "d": 10,
       "f": 9
     },
     "is_metal": 1,
@@ -1310,9 +1310,9 @@
     "electron_affinity": 0.0153,
     "first_ionization_energy": 5.93905,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 20,
+      "s": 2,
+      "p": 6,
+      "d": 10,
       "f": 10
     },
     "is_metal": 1,
@@ -1330,9 +1330,9 @@
     "electron_affinity": 0.338,
     "first_ionization_energy": 6.0215,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 20,
+      "s": 2,
+      "p": 6,
+      "d": 10,
       "f": 11
     },
     "is_metal": 1,
@@ -1350,9 +1350,9 @@
     "electron_affinity": 0.312,
     "first_ionization_energy": 6.1077,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 20,
+      "s": 2,
+      "p": 6,
+      "d": 10,
       "f": 12
     },
     "is_metal": 1,
@@ -1370,9 +1370,9 @@
     "electron_affinity": 1.02922,
     "first_ionization_energy": 6.18431,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 20,
+      "s": 2,
+      "p": 6,
+      "d": 10,
       "f": 13
     },
     "is_metal": 1,
@@ -1390,9 +1390,9 @@
     "electron_affinity": -0.02,
     "first_ionization_energy": 6.25416,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 20,
+      "s": 2,
+      "p": 6,
+      "d": 10,
       "f": 14
     },
     "is_metal": 1,
@@ -1410,10 +1410,10 @@
     "electron_affinity": 0.23887,
     "first_ionization_energy": 5.425871,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 21,
-      "f": 14
+      "s": 2,
+      "p": 6,
+      "d": 1,
+      "f": 0
     },
     "is_metal": 1,
     "block": "d",
@@ -1430,10 +1430,10 @@
     "electron_affinity": 0.17807,
     "first_ionization_energy": 6.82507,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 22,
-      "f": 14
+      "s": 2,
+      "p": 6,
+      "d": 2,
+      "f": 0
     },
     "is_metal": 1,
     "block": "d",
@@ -1450,10 +1450,10 @@
     "electron_affinity": 0.32885923,
     "first_ionization_energy": 7.549571,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 23,
-      "f": 14
+      "s": 2,
+      "p": 6,
+      "d": 3,
+      "f": 0
     },
     "is_metal": 1,
     "block": "d",
@@ -1470,10 +1470,10 @@
     "electron_affinity": 0.81650082,
     "first_ionization_energy": 7.86403,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 24,
-      "f": 14
+      "s": 2,
+      "p": 6,
+      "d": 4,
+      "f": 0
     },
     "is_metal": 1,
     "block": "d",
@@ -1490,10 +1490,10 @@
     "electron_affinity": 0.06039664,
     "first_ionization_energy": 7.83352,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 25,
-      "f": 14
+      "s": 2,
+      "p": 6,
+      "d": 5,
+      "f": 0
     },
     "is_metal": 1,
     "block": "d",
@@ -1510,10 +1510,10 @@
     "electron_affinity": 1.07766124,
     "first_ionization_energy": 8.43823,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 26,
-      "f": 14
+      "s": 2,
+      "p": 6,
+      "d": 6,
+      "f": 0
     },
     "is_metal": 1,
     "block": "d",
@@ -1530,10 +1530,10 @@
     "electron_affinity": 1.56405712,
     "first_ionization_energy": 8.96702,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 27,
-      "f": 14
+      "s": 2,
+      "p": 6,
+      "d": 7,
+      "f": 0
     },
     "is_metal": 1,
     "block": "d",
@@ -1550,10 +1550,10 @@
     "electron_affinity": 2.125105,
     "first_ionization_energy": 8.95883,
     "valence_electrons": {
-      "s": 11,
-      "p": 24,
-      "d": 29,
-      "f": 14
+      "s": 2,
+      "p": 6,
+      "d": 9,
+      "f": 0
     },
     "is_metal": 1,
     "block": "d",
@@ -1570,10 +1570,10 @@
     "electron_affinity": 2.30861025,
     "first_ionization_energy": 9.225554,
     "valence_electrons": {
-      "s": 11,
-      "p": 24,
-      "d": 30,
-      "f": 14
+      "s": 2,
+      "p": 6,
+      "d": 10,
+      "f": 0
     },
     "is_metal": 1,
     "block": "d",
@@ -1590,10 +1590,10 @@
     "electron_affinity": -0.52,
     "first_ionization_energy": 10.437504,
     "valence_electrons": {
-      "s": 12,
-      "p": 24,
-      "d": 30,
-      "f": 14
+      "s": 2,
+      "p": 6,
+      "d": 10,
+      "f": 0
     },
     "is_metal": 1,
     "block": "d",
@@ -1610,10 +1610,10 @@
     "electron_affinity": 0.32005319,
     "first_ionization_energy": 6.1082873,
     "valence_electrons": {
-      "s": 12,
-      "p": 25,
-      "d": 30,
-      "f": 14
+      "s": 2,
+      "p": 1,
+      "d": 0,
+      "f": 0
     },
     "is_metal": 1,
     "block": "p",
@@ -1630,10 +1630,10 @@
     "electron_affinity": 0.3567212,
     "first_ionization_energy": 7.4166799,
     "valence_electrons": {
-      "s": 12,
-      "p": 26,
-      "d": 30,
-      "f": 14
+      "s": 2,
+      "p": 2,
+      "d": 0,
+      "f": 0
     },
     "is_metal": 1,
     "block": "p",
@@ -1650,10 +1650,10 @@
     "electron_affinity": 0.94236213,
     "first_ionization_energy": 7.285516,
     "valence_electrons": {
-      "s": 12,
-      "p": 27,
-      "d": 30,
-      "f": 14
+      "s": 2,
+      "p": 3,
+      "d": 0,
+      "f": 0
     },
     "is_metal": 1,
     "block": "p",
@@ -1670,10 +1670,10 @@
     "electron_affinity": 1.407,
     "first_ionization_energy": 8.41807,
     "valence_electrons": {
-      "s": 12,
-      "p": 28,
-      "d": 30,
-      "f": 14
+      "s": 2,
+      "p": 4,
+      "d": 0,
+      "f": 0
     },
     "is_metal": 0,
     "block": "p",
@@ -1690,10 +1690,10 @@
     "electron_affinity": 2.415787,
     "first_ionization_energy": 9.31751,
     "valence_electrons": {
-      "s": 12,
-      "p": 29,
-      "d": 30,
-      "f": 14
+      "s": 2,
+      "p": 5,
+      "d": 0,
+      "f": 0
     },
     "is_metal": 0,
     "block": "p",
@@ -1710,10 +1710,10 @@
     "electron_affinity": -0.72,
     "first_ionization_energy": 10.7485,
     "valence_electrons": {
-      "s": 12,
-      "p": 30,
-      "d": 30,
-      "f": 14
+      "s": 2,
+      "p": 6,
+      "d": 0,
+      "f": 0
     },
     "is_metal": 0,
     "block": "p",
@@ -1730,10 +1730,10 @@
     "electron_affinity": 0.486,
     "first_ionization_energy": 4.0727411,
     "valence_electrons": {
-      "s": 13,
-      "p": 30,
-      "d": 30,
-      "f": 14
+      "s": 1,
+      "p": 0,
+      "d": 0,
+      "f": 0
     },
     "is_metal": 1,
     "block": "s",
@@ -1750,10 +1750,10 @@
     "electron_affinity": 0.1,
     "first_ionization_energy": 5.2784239,
     "valence_electrons": {
-      "s": 14,
-      "p": 30,
-      "d": 30,
-      "f": 14
+      "s": 2,
+      "p": 0,
+      "d": 0,
+      "f": 0
     },
     "is_metal": 1,
     "block": "s",
@@ -1770,10 +1770,10 @@
     "electron_affinity": 0.35,
     "first_ionization_energy": 5.380226,
     "valence_electrons": {
-      "s": 14,
-      "p": 30,
-      "d": 31,
-      "f": 14
+      "s": 2,
+      "p": 6,
+      "d": 1,
+      "f": 0
     },
     "is_metal": 1,
     "block": "f",
@@ -1790,10 +1790,10 @@
     "electron_affinity": 0.607696,
     "first_ionization_energy": 6.3067,
     "valence_electrons": {
-      "s": 14,
-      "p": 30,
-      "d": 32,
-      "f": 14
+      "s": 2,
+      "p": 6,
+      "d": 2,
+      "f": 0
     },
     "is_metal": 1,
     "block": "f",
@@ -1810,10 +1810,10 @@
     "electron_affinity": 0.55,
     "first_ionization_energy": 5.89,
     "valence_electrons": {
-      "s": 14,
-      "p": 30,
-      "d": 31,
-      "f": 16
+      "s": 2,
+      "p": 6,
+      "d": 1,
+      "f": 0
     },
     "is_metal": 1,
     "block": "f",
@@ -1830,10 +1830,10 @@
     "electron_affinity": 0.314979,
     "first_ionization_energy": 6.19405,
     "valence_electrons": {
-      "s": 14,
-      "p": 30,
-      "d": 31,
-      "f": 17
+      "s": 2,
+      "p": 6,
+      "d": 1,
+      "f": 0
     },
     "is_metal": 1,
     "block": "f",
@@ -1850,10 +1850,10 @@
     "electron_affinity": 0.48,
     "first_ionization_energy": 6.26554,
     "valence_electrons": {
-      "s": 14,
-      "p": 30,
-      "d": 31,
-      "f": 18
+      "s": 2,
+      "p": 6,
+      "d": 1,
+      "f": 0
     },
     "is_metal": 1,
     "block": "f",
@@ -1870,10 +1870,10 @@
     "electron_affinity": -0.5,
     "first_ionization_energy": 6.02576,
     "valence_electrons": {
-      "s": 14,
-      "p": 30,
-      "d": 30,
-      "f": 20
+      "s": 2,
+      "p": 6,
+      "d": 10,
+      "f": 6
     },
     "is_metal": 1,
     "block": "f",
@@ -1890,10 +1890,10 @@
     "electron_affinity": 0.1,
     "first_ionization_energy": 5.97381,
     "valence_electrons": {
-      "s": 14,
-      "p": 30,
-      "d": 30,
-      "f": 21
+      "s": 2,
+      "p": 6,
+      "d": 10,
+      "f": 7
     },
     "is_metal": 1,
     "block": "f",
@@ -1910,10 +1910,10 @@
     "electron_affinity": 0.28,
     "first_ionization_energy": 5.99141,
     "valence_electrons": {
-      "s": 14,
-      "p": 30,
-      "d": 31,
-      "f": 21
+      "s": 2,
+      "p": 6,
+      "d": 1,
+      "f": 0
     },
     "is_metal": 1,
     "block": "f",
@@ -1930,10 +1930,10 @@
     "electron_affinity": -1.72,
     "first_ionization_energy": 6.19785,
     "valence_electrons": {
-      "s": 14,
-      "p": 30,
-      "d": 30,
-      "f": 23
+      "s": 2,
+      "p": 6,
+      "d": 10,
+      "f": 9
     },
     "is_metal": 1,
     "block": "f",
@@ -1950,10 +1950,10 @@
     "electron_affinity": -1.01,
     "first_ionization_energy": 6.28166,
     "valence_electrons": {
-      "s": 14,
-      "p": 30,
-      "d": 30,
-      "f": 24
+      "s": 2,
+      "p": 6,
+      "d": 10,
+      "f": 10
     },
     "is_metal": 1,
     "block": "f",
@@ -1970,10 +1970,10 @@
     "electron_affinity": -0.3,
     "first_ionization_energy": 6.36758,
     "valence_electrons": {
-      "s": 14,
-      "p": 30,
-      "d": 30,
-      "f": 25
+      "s": 2,
+      "p": 6,
+      "d": 10,
+      "f": 11
     },
     "is_metal": 1,
     "block": "f",
@@ -1990,10 +1990,10 @@
     "electron_affinity": 0.35,
     "first_ionization_energy": 6.5,
     "valence_electrons": {
-      "s": 14,
-      "p": 30,
-      "d": 30,
-      "f": 26
+      "s": 2,
+      "p": 6,
+      "d": 10,
+      "f": 12
     },
     "is_metal": 1,
     "block": "f",
@@ -2010,10 +2010,10 @@
     "electron_affinity": 0.98,
     "first_ionization_energy": 6.58,
     "valence_electrons": {
-      "s": 14,
-      "p": 30,
-      "d": 30,
-      "f": 27
+      "s": 2,
+      "p": 6,
+      "d": 10,
+      "f": 13
     },
     "is_metal": 1,
     "block": "f",
@@ -2030,10 +2030,10 @@
     "electron_affinity": -2.33,
     "first_ionization_energy": 6.62621,
     "valence_electrons": {
-      "s": 14,
-      "p": 30,
-      "d": 30,
-      "f": 28
+      "s": 2,
+      "p": 6,
+      "d": 10,
+      "f": 14
     },
     "is_metal": 1,
     "block": "f",
@@ -2050,10 +2050,10 @@
     "electron_affinity": -0.31,
     "first_ionization_energy": 4.96,
     "valence_electrons": {
-      "s": 14,
-      "p": 31,
-      "d": 30,
-      "f": 28
+      "s": 2,
+      "p": 1,
+      "d": 0,
+      "f": 0
     },
     "is_metal": 1,
     "block": "d",

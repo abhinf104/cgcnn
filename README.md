@@ -1,43 +1,96 @@
-# CGCNN Project Guide
+# CGCNN: Crystal Graph Convolutional Neural Network
 
 ## 🚀 Quick Start
 
-### Setup (First Time Only)
+### 1. Environment Setup (First Time Only)
+
 ```powershell
-.\setup_environment.ps1
+cd C:/Users/abhin/Desktop/cgcnn
+uv sync
 ```
 
-### Commands
+### 2. Running Python Scripts
 
-| Task | Command |
-|------|---------|
-| Run Python file | `uv run python file.py` |
-| Test environment | `uv run python setup_and_uv/test_environment.py` |
-| Start Jupyter | `uv run jupyter lab` |
-| Add package | `uv add package-name` |
-| Sync dependencies | `uv sync` |
+```powershell
+# Run a script (recommended)
+uv run python setup_and_uv/example.py
+uv run python setup_and_uv/quick_test.py
 
-### Run Jupyter Notebooks
-1. Open `GNN3.ipynb` in VS Code
-2. Click **"Select Kernel"** → Choose **"Python (cgcnn)"**
-3. Press `Shift+Enter` to run cells
+# Or activate the virtual environment manually
+.venv/Scripts/activate
+python setup_and_uv/example.py
+deactivate
+```
+
+### 3. Running Jupyter Notebooks
+
+```powershell
+uv run jupyter lab
+
+uv run jupyter notebook
+
+uv run jupyter execute GNN.ipynb
+uv run jupyter execute notebooks/01_atom_embeddings.ipynb
+```
+
+### 4. Adding New Dependencies
+
+```powershell
+uv add <package-name>
+# This will:
+# 1. Install the package
+# 2. Update pyproject.toml
+# 3. Update uv.lock
+```
+
+### 5. Using Materials Project API
+
+```powershell
+$env:MP_API = "your_api_key_here"
+uv run python your_script.py
+
+# Or Create a .env file (persistent)
+echo "MP_API=your_api_key_here" > .env
+# In your Python code:
+# from dotenv import load_dotenv
+# load_dotenv()
+```
 
 ---
 
-## � Troubleshooting
+## 📁 Project Structure
 
-| Issue | Solution |
-|-------|----------|
-| Kernel not showing | `Ctrl+Shift+P` → "Developer: Reload Window" |
-| Package missing | `uv sync` |
-| Complete reset | `.\setup_environment.ps1` |
+cgcnn/
+├── pyproject.toml
+├── README.md
+├── create_structure.ps1
+├── setup_environment.ps1
+├── data/ # Data files
+│ ├── atom_embed_config.json
+│ ├── atom_embedding.json
+│ ├── elements.json
+│ └── mp-ids-27430.csv # Materials Project IDs
+├── notebooks
+│ ├── 01_atom_embeddings.ipynb # Atom embeddings notebook
+│ ├── 02_graph_building.ipynb # Graph building notebook
+│ ├── 03_graph_visualization.ipynb# Graph visualization notebook
+│ ├── atom_embed_config.json # Atom embedding
+config (notebook copy)
+(notebook copy)
+└── setup_and_uv/ # Setup and utility scripts
+├── example.py # Example Python script
+├── quick_test.py # Quick test script
+├── test_environment.py # Environment test script
+└── UV_GUIDE.md # UV and environment guide
 
 ---
 
-## 📁 Project Files
+## 🛠️ Troubleshooting
 
-- `GNN3.ipynb` - Main notebook
-- `atom_init.json` - Atomic properties
-- `pyproject.toml` - Dependencies
-- `setup_environment.ps1` - Setup script
-- `setup_and_uv/` - Testing utilities
+| Issue              | Solution                                     |
+| ------------------ | -------------------------------------------- |
+| Kernel not showing | `Ctrl+Shift+P` → "Developer: Reload Window"  |
+| Package missing    | `uv sync`                                    |
+| Complete reset     | `Remove-Item -Recurse -Force .venv; uv sync` |
+
+---
