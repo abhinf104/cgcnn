@@ -81,13 +81,5 @@
   "valence_f": {
     "use": true,
     "type": "linear"
-  },
-  "is_metal": {
-    "use": true,
-    "type": "linear"
-  },
-  "_behavior": {
-    "missing_scalar_fill": 0.0,
-    "gaussian_gamma": null
   }
 }
