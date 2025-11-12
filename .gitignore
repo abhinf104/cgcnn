@@ -217,3 +217,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data and CIF files
+data/
+*.cif
+cif/
+
+# Setup scripts
+setup_environment.ps1
+create_structure.ps1
+setup_and_uv/
+
+# PyTorch/Model files
+*.pt
+*.pth
+checkpoint*/
+models/
+
+# Training results and logs
+training_results/
+runs/
